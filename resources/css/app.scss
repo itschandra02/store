@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+// Variables
+@import 'variables';
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-table/src/bootstrap-table';
+// @import "~sweetalert2/src/sweetalert2";
+@import '~@sweetalert2/theme-borderless/borderless';
+@import '~toastr/toastr';
+
+$fa-font-path:        "../webfonts";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~bootstrap-avatar/scss/avatar";
